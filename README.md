@@ -18,7 +18,7 @@ Note-Craft is an innovative decentralized website built using cutting-edge web3 
 
 <br>
 ## Minimalistic Look
-![Screenshot_20230707_213651](https://github.com/dev-world-rohit/Note-Craft/assets/136791205/350fb184-5e44-459a-9e46-a197c9bb1a46)
+![image](https://github.com/dev-world-rohit/Note-Craft/assets/136791205/d612e497-b522-4d31-a55d-4bc5b2d8b823)
 
 ## Note Taking 
 ![Screenshot_20230707_213725](https://github.com/dev-world-rohit/Note-Craft/assets/136791205/1fb7196f-0d01-4bf5-8ae4-54dbff9051ab)
