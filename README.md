@@ -17,7 +17,7 @@ Note-Craft is an innovative decentralized website built using cutting-edge web3 
   Users can conveniently delete unwanted notes with a single click, providing a hassle-free experience and maintaining data organization.
 
 <br>
-## Minimalistic Look
+## Minimalistic Look <br>
 ![image](https://github.com/dev-world-rohit/Note-Craft/assets/136791205/d612e497-b522-4d31-a55d-4bc5b2d8b823)
 
 ## Note Taking 
